@@ -54,3 +54,18 @@ Thumbs.db
 # Python cache (KiCad plugins/scripts)
 __pycache__/
 *.pyc
+
+# ESP-IDF build system
+build/
+sdkconfig
+sdkconfig.old
+*.o
+*.d
+*.a
+*.elf
+*.bin
+*.map
+
+# ESP-IDF dependencies
+dependencies.lock
+managed_components/

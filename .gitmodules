@@ -1,0 +1,3 @@
+[submodule "firmware/AS5600_testing/components/as5600-espidf"]
+	path = firmware/AS5600_testing/components/as5600-espidf
+	url = https://github.com/NoobMaster-version/as5600-espidf.git
